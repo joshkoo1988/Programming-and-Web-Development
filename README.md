@@ -4,7 +4,7 @@
 <h2>🖥️Programming and Web Development:</h2>
 
 - <b>Python</b>
-  - [coming soon](insert URL here)
+  - [basic Python learning library](https://github.com/joshkoo1988/Python-Learning)
 - <b>C#</b>
   - [coming soon](insert URL here)
 - <b>go</b>
