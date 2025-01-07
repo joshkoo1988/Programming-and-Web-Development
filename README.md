@@ -4,7 +4,7 @@
 <h2>🖥️Programming and Web Development:</h2>
 
 - <b>Python</b>
-  - [Basic Python learning library](https://github.com/joshkoo1988/Python-Learning)
+  - [Python learning library](https://github.com/joshkoo1988/Python-Learning)
   - [Static Site Generator](https://github.com/joshkoo1988/Static_Site_Generator)
   - [Maze generator and solver](https://github.com/joshkoo1988/maze_solver)
   - [Astroids](https://github.com/joshkoo1988/astroids)
