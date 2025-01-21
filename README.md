@@ -3,7 +3,8 @@
 <h1><a href="https://github.com/joshkoo1988/Programming-and-Web-Development">Programmer/Web Developer</a> , <a href="https://github.com/joshkoo1988/CyberSecurity">Cybersecurity Professional</a> </h1>
 <h1> Here are all the highlights of my Programming and Web Development Repository </h1>
 
-<h2>🖥️Programming and Web Development:</h2>
+- <b>Certifications</b>
+  - [Boot.Dev Backend Developer](https://www.boot.dev/u/joshkoo)
 
 - <b>Python</b>
   - [Python learning library](https://github.com/joshkoo1988/Python-Learning)
@@ -21,4 +22,3 @@
     
 - <b>HTML</b>
   - [coming soon](insert URL here) 
- 
