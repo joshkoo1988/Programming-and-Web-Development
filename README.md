@@ -15,12 +15,13 @@
   - [Static Site Generator](https://github.com/joshkoo1988/Static_Site_Generator)
   - [Maze generator and solver](https://github.com/joshkoo1988/maze_solver)
   - [Astroids](https://github.com/joshkoo1988/astroids)
+  - [Flask Website](https://github.com/joshkoo1988/flask-website)
     
 - <b>C#</b>
-  - [coming soon](insert URL here)
+  - [coming soon](https://github.com/joshkoo1988/C-learning)
     
 - <b>go</b>
-  - [coming soon](insert URL here)
+  - [coming soon](https://github.com/joshkoo1988/go-lang-learning)
     
 - <b>HTML</b>
-  - [coming soon](insert URL here) 
+  - [coming soon](https://github.com/joshkoo1988/HTML-learning) 
