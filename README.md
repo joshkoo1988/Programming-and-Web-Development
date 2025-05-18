@@ -8,20 +8,17 @@
 - <b>Certifications</b>
   - [Boot.Dev Backend Developer](https://www.boot.dev/u/joshkoo)
 
-- <b>Python</b>
-  - [Python learning library](https://github.com/joshkoo1988/Python-Learning)
-  - [Python Algorithms & Data Structures](https://github.com/joshkoo1988/Python-Algorithms-and-Data-Structures)
-  - [Python Sorting Algorithms](https://github.com/joshkoo1988/PythonSortingAlgorithms)
+- <b>[Python](https://github.com/joshkoo1988/Python)</b>
   - [Static Site Generator](https://github.com/joshkoo1988/Static_Site_Generator)
   - [Maze generator and solver](https://github.com/joshkoo1988/maze_solver)
-  - [Astroids](https://github.com/joshkoo1988/astroids)
+  - [Asteroids](https://github.com/joshkoo1988/astroids)
   - [Flask Website](https://github.com/joshkoo1988/flask-website)
-    
-- <b>C#</b>
-  - [coming soon](https://github.com/joshkoo1988/C-learning)
     
 - <b>go</b>
   - [coming soon](https://github.com/joshkoo1988/go-lang-learning)
     
 - <b>AWS</b>
-  - 
+
+- <b>Front End (Java Script & React.JS)</b>
+  - [Calculator](https://github.com/joshkoo1988/calculator)
+  - [Weather App](https://github.com/joshkoo1988/weather-app)
