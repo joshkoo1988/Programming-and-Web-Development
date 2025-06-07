@@ -7,6 +7,7 @@
 
 - <b>Certifications</b>
   - [Boot.Dev Backend Developer](https://www.boot.dev/u/joshkoo)
+  - AWS Cloud Pratictioner
 
 - <b>[Python](https://github.com/joshkoo1988/Python)</b>
   - [Static Site Generator](https://github.com/joshkoo1988/Static_Site_Generator)
@@ -19,6 +20,6 @@
     
 - <b>AWS</b>
 
-- <b>Front End (Java Script & React.JS)</b>
+- <b>[Web Dev Portfolio](https://github.com/joshkoo1988/Web-Dev-Portfolio)</b>
   - [Calculator](https://github.com/joshkoo1988/calculator)
   - [Weather App](https://github.com/joshkoo1988/weather-app)
